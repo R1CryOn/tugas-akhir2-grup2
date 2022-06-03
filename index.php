@@ -163,9 +163,9 @@
                   </div>
                 </div>
                 <div class="text-content-4">
-                  <div class="main-title nunito-bold-denim-blue-48px">Business Communications Reinvented</div>
+                  <div class="main-title nunito-bold-denim-blue-48px">Find Your Travel Buddy</div>
                   <p class="body-text nunito-normal-denim-blue-16px">
-                    Start communicating with your business team more efficiently with our app.
+                  Find Your Travel Place with your friend with our app.
                   </p>
                 </div>
               </div>
