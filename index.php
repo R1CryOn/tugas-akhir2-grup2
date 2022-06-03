@@ -38,7 +38,7 @@
           <div class="main-section">
             <div class="website-elements-section-hero">
               <div class="overlap-group12">
-                <div class="background"><img class="background" src="images/Blog1.jpg" alt=""></div>
+                <div class="background"></div>
                 <div class="ui-elements">
                   <div class="overlap-group9">
                     <div class="overlap-group8">
@@ -60,22 +60,22 @@
                               <img class="icon-7" src="svg/shape-1.svg" />
                             </div>
                             <div class="text-content-1">
-                              <div class="title-1 nunito-bold-denim-blue-16px">Travel Date</div>
-                              <p class="information-1 nunito-normal-denim-blue-12px">Apr 2022</p>
+                              <div class="title-1 nunito-bold-denim-blue-16px">Team Meeting</div>
+                              <p class="information-1 nunito-normal-denim-blue-12px">2:30 PM 15 Apr 2020</p>
                             </div>
                           </div>
                           <div class="overlap-group-1">
                             <div class="person border-2px-white">
-                              <div class="information-2 nunito-bold-denim-blue-10px">Spr</div>
+                              <div class="information-2 nunito-bold-denim-blue-10px">JM</div>
                             </div>
                             <div class="person-1 border-2px-white">
-                              <div class="information-3 nunito-bold-denim-blue-10px">Smr</div>
+                              <div class="information-3 nunito-bold-denim-blue-10px">AC</div>
                             </div>
                             <div class="person-2 border-2px-white">
-                              <div class="information-4 nunito-bold-denim-blue-10px">Win</div>
+                              <div class="information-4 nunito-bold-denim-blue-10px">KD</div>
                             </div>
                             <div class="other-people border-2px-white">
-                              <div class="information-5 nunito-bold-denim-blue-10px">All Season</div>
+                              <div class="information-5 nunito-bold-denim-blue-10px">+8</div>
                             </div>
                           </div>
                         </div>
@@ -128,7 +128,6 @@
                       </div>
                     </div>
                     <div class="card-5">
-                      <img class="card-5" src="images/globe.png" alt="">
                       <div class="icon-4"></div>
                     </div>
                     <div class="card-3">
@@ -153,7 +152,7 @@
                   </div>
                   <div class="card-6">
                     <div class="overlap-group-6">
-                      <img class="icon-5" src="images/globe.png" />
+                      <img class="icon-5" src="svg/icon-2.svg" />
                     </div>
                   </div>
                 </div>
@@ -163,9 +162,9 @@
                   </div>
                 </div>
                 <div class="text-content-4">
-                  <div class="main-title nunito-bold-denim-blue-48px">Find Your Travel Buddy</div>
+                  <div class="main-title nunito-bold-denim-blue-48px">Business Communications Reinvented</div>
                   <p class="body-text nunito-normal-denim-blue-16px">
-                    Find Your Travel Place with your friend with our app.
+                    Start communicating with your business team more efficiently with our app.
                   </p>
                 </div>
               </div>
@@ -178,8 +177,8 @@
                   </div>
                 </div>
                 <div class="text-content-5">
-                  <div class="title nunito-semi-bold-denim-blue-30px">Web based</div>
-                  <div class="body-text-1 nunito-normal-denim-blue-22px">All your request are always online.</div>
+                  <div class="title nunito-semi-bold-denim-blue-30px">Cloud based</div>
+                  <div class="body-text-1 nunito-normal-denim-blue-22px">All your messages are always backed up.</div>
                 </div>
               </div>
               <div class="item-2">
@@ -190,19 +189,77 @@
                 </div>
                 <div class="text-content-6">
                   <div class="title nunito-semi-bold-denim-blue-30px">Secured</div>
-                  <div class="body-text-1 nunito-normal-denim-blue-22px">All your data are stored very securely.</div>
+                  <div class="body-text-1 nunito-normal-denim-blue-22px">All your messages are stored very securely.</div>
                 </div>
               </div>
             </div>
             <div class="website-elements-section-text-right">
               <div class="card-7">
-                <img class="" src="images/globe.png" alt="">
+                <div class="card-container">
+                  <div class="card-2-1">
+                    <div class="overlap-group-2">
+                      <div class="overlap-group-3">
+                        <div class="initials-1">
+                          <div class="initials nunito-bold-denim-blue-18px">DL</div>
+                        </div>
+                        <div class="notification border-2px-white">
+                          <div class="number-of-messages nunito-bold-black-squeeze-6px">1</div>
+                        </div>
+                      </div>
+                      <div class="text-content">
+                        <div class="information-8">
+                          <div class="name-3 nunito-bold-denim-blue-16px">Daniel Luke</div>
+                          <p class="message-3 nunito-normal-denim-blue-12px">Would you like to have a meetin…</p>
+                        </div>
+                        <div class="time-2 nunito-normal-denim-blue-10px">5:27 AM</div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="card-1-2">
+                    <div class="overlap-group3-1">
+                      <div class="overlap-group-7">
+                        <div class="initials-2">
+                          <div class="initials-3 nunito-bold-denim-blue-22px">AJ</div>
+                        </div>
+                        <div class="notification-1">
+                          <div class="number-of-messages-1">2</div>
+                        </div>
+                      </div>
+                      <div class="text-content-7">
+                        <div class="information-9">
+                          <div class="name-4">Andrew Johnson</div>
+                          <p class="message-4">I have seen that you are availabl…</p>
+                        </div>
+                        <div class="time-3 nunito-normal-denim-blue-12px">1:03 PM</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="card-3-1">
+                  <div class="overlap-group1-1">
+                    <div class="overlap-group-8">
+                      <div class="initials-4">
+                        <div class="initials-5">MC</div>
+                      </div>
+                      <div class="notification-2">
+                        <div class="number-of-messages-2">4</div>
+                      </div>
+                    </div>
+                    <div class="text-content-8">
+                      <div class="information-10">
+                        <div class="name-5">Mark Clarke</div>
+                        <p class="message-5">This was such a busy week. I can…</p>
+                      </div>
+                      <div class="time-4">2:08 AM</div>
+                    </div>
+                  </div>
+                </div>
               </div>
               <div class="content">
                 <div class="text-content-9">
-                  <div class="main-title-1 nunito-bold-denim-blue-48px">Use our app to send travel choice to your friends</div>
+                  <div class="main-title-1 nunito-bold-denim-blue-48px">Use our app to send messages to your team</div>
                   <p class="body-text nunito-normal-denim-blue-16px">
-                    We offer good travel destination for people.
+                    We offer really easy communications for all businesses from small to large.
                   </p>
                 </div>
                 <div class="website-elements-buttons-primary-stroke">
@@ -214,16 +271,19 @@
             </div>
             <div class="website-elements-section-text-center">
               <div class="text-content-10">
-                <div class="main-title-2 nunito-bold-denim-blue-48px">Choose Your Travel Destiny</div>
+                <div class="main-title-2 nunito-bold-denim-blue-48px">Transform your communications</div>
                 <p class="body-text-3 nunito-normal-denim-blue-16px">
-                  Our mobile app is the only thing you need to make your travel life easier
+                  Our mobile app is the only thing you need to change the way you communicate with your team
                 </p>
               </div>
               <div class="overlap-group11">
-                <div class="background"><img class="background"src="images/switzerland.jpg" alt=""></div>
+                <div class="background"></div>
                 <div class="ui-components">
                   <div class="card-container-1">
                     <div class="card-8-1">
+                      <div class="overlap-group-9">
+                        <div class="icon-4"></div>
+                      </div>
                     </div>
                     <div class="card-4-1">
                       <div class="overlap-group">
@@ -348,9 +408,9 @@
             <div class="website-elements-section-text-left">
               <div class="contet">
                 <div class="text-content-14">
-                  <div class="main-title-3 nunito-bold-denim-blue-48px">Increase the efficiency within your buddy</div>
+                  <div class="main-title-3 nunito-bold-denim-blue-48px">Increase the efficiency within your company</div>
                   <p class="body-text nunito-normal-denim-blue-16px">
-                    Our app is the great way for you to finding travel destination.
+                    Our app is the great way for you to start getting more tasks done.
                   </p>
                 </div>
                 <div class="website-elements-buttons-primary-stroke">
@@ -359,7 +419,7 @@
                   </div>
                 </div>
               </div>
-              <img class="card-9" src="images/globe.png" />
+              <img class="card-9" src="svg/card.svg" />
             </div>
             <div class="website-elements-section-pricing">
               <div class="text-content-15">
@@ -373,8 +433,8 @@
                   <div class="card-1">
                     <div class="card-content">
                       <div class="subtitle nunito-normal-denim-blue-25px">Basic</div>
-                      <div class="price nunito-bold-denim-blue-56px">$250</div>
-                      <div class="body-text-2 nunito-normal-denim-blue-20px">Per trip</div>
+                      <div class="price nunito-bold-denim-blue-56px">$9</div>
+                      <div class="body-text-2 nunito-normal-denim-blue-20px">Per month</div>
                       <div class="learn-more-button">
                         <div class="learn-more nunito-bold-denim-blue-25px">Learn more</div>
                       </div>
@@ -385,8 +445,8 @@
                   <div class="overlap-group-10">
                     <div class="card-content-1">
                       <div class="subtitle-2 nunito-normal-denim-blue-25px">Premium</div>
-                      <div class="price-2 nunito-bold-denim-blue-56px">$500</div>
-                      <div class="body-text-2 nunito-normal-denim-blue-20px">Per trip</div>
+                      <div class="price-2 nunito-bold-denim-blue-56px">$29</div>
+                      <div class="body-text-2 nunito-normal-denim-blue-20px">Per month</div>
                       <div class="cta-button border-3px-denim-blue">
                         <div class="button-text-1 nunito-bold-denim-blue-25px">Get started</div>
                       </div>
@@ -398,8 +458,8 @@
                   <div class="card-1">
                     <div class="card-content">
                       <div class="subtitle-2 nunito-normal-denim-blue-25px">Enterprise</div>
-                      <div class="price-2 nunito-bold-denim-blue-56px">$350</div>
-                      <div class="body-text-2 nunito-normal-denim-blue-20px">Per trip</div>
+                      <div class="price-2 nunito-bold-denim-blue-56px">$129</div>
+                      <div class="body-text-2 nunito-normal-denim-blue-20px">Per month</div>
                       <div class="learn-more-button">
                         <div class="learn-more nunito-bold-denim-blue-25px">Learn more</div>
                       </div>
@@ -429,8 +489,8 @@
         <div class="website-elements-footer">
           <div class="section">
             <div class="flex-col">
-              <div class="company-name nunito-bold-denim-blue-30px">Chill.tour</div>
-              <div class="copyright nunito-normal-denim-blue-18px">© 2022 - Chill Tour</div>
+              <div class="company-name nunito-bold-denim-blue-30px">Hacktiv8.io</div>
+              <div class="copyright nunito-normal-denim-blue-18px">© 2022 - Hacktiv8</div>
             </div>
             <div class="product">
               <a href="#"><div class="title nunito-bold-denim-blue-30px">Product</div></a>
